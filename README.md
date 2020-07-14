@@ -2,7 +2,7 @@
 
 Dog Breed classifier project. A Web Application is developed using Streamlit through which a user can check the breed of dog. Also, if the uploaded image is that of a human, the algorithm tells the user what dog breed the human resembles the most. The Deep Learning model distinguishes between the 133 classes of dogs with an accuracy of over 82.89%.
 
-Medium Article Published in Towards Data Science- https://towardsdatascience.com/dog-breed-classification-using-flask-ef99259d38c
+
 
 
 
