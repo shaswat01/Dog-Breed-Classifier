@@ -1,0 +1,10 @@
+scipy==0.18.1
+tensorflow==1.4.0
+numpy==1.12.1
+tqdm==4.11.2
+pandas==0.23.3
+keras==2.1.5
+opencv-python==4.2.0.34
+PIL
+streamlit
+matplotlib
